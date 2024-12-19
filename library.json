@@ -1,0 +1,17 @@
+{
+  "name": "TimerMs_Ex",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pup22/TimerMs_Ex"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gyverlibs/TimerMs": "*"
+  },
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif8266",
+    "espressif32"
+  ]
+}
